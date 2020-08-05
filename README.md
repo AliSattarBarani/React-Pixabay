@@ -30,4 +30,4 @@ The project as i say always when i upload any project here on my github account 
 
 - Laptop display when you select or click on a specific image:
 
-![screenshot3](https://github.com/AliSattarBarani/React-Pixabay/blob/master/Screenshots/Screentshot_MoreDetails.jpg)
+![screenshot3](https://github.com/AliSattarBarani/React-Pixabay/blob/master/Screenshots/Screenshot_MoreDetails.jpg)
