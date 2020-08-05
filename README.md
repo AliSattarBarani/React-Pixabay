@@ -12,6 +12,8 @@ The project as i say always when i upload any project here on my github account 
   ```git clone https://github.com/AliSattarBarani/React-Pixabay.git```
 <br>
 
+---
+
 **Some of the project screenshots:**
 
 - Laptop display: 
@@ -23,3 +25,9 @@ The project as i say always when i upload any project here on my github account 
 - Mobile display:
 
 ![screenshot2](https://github.com/AliSattarBarani/React-Pixabay/blob/master/Screenshots/Screentshot_Mobile.jpg)
+
+<br>
+
+- Laptop display when you select or click on a specific image:
+
+![screenshot3](https://github.com/AliSattarBarani/React-Pixabay/blob/master/Screenshots/Screentshot_MoreDetails.jpg)
