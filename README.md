@@ -10,11 +10,16 @@ A simple React app used Pixabay API to get or pull all the details about each im
 The project as i say always when i upload any project here on my github account it is free to use and open source, so in order to download it you've two options: You can donwload it as zip or clone the repo through your terminal or command line tool by typing the command below:
 
   ```git clone https://github.com/AliSattarBarani/React-Pixabay.git```
+<br>
 
-Some of the project screenshots:
+**Some of the project screenshots:**
 
-- Laptop display:
+- Laptop display: 
+
 ![screenshot1](https://github.com/AliSattarBarani/React-Pixabay/blob/master/Screenshots/Screentshot_Laptop.jpg)
 
+<br>
+
 - Mobile display:
+
 ![screenshot2](https://github.com/AliSattarBarani/React-Pixabay/blob/master/Screenshots/Screentshot_Mobile.jpg)
